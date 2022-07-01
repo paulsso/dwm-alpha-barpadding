@@ -1,7 +1,7 @@
-diff --git a/config.def.h b/config.def.h
+diff --git a/config.h b/config.h
 index a2ac963..7b9e645 100644
---- a/config.def.h
-+++ b/config.def.h
+--- a/config.h
++++ b/config.h
 @@ -1,10 +1,13 @@
  /* See LICENSE file for copyright and license details. */
  
